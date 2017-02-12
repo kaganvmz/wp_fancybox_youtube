@@ -1,1 +1,1 @@
-# wp_fancybox_youtube
+# Youtube video in fancybox wordpress plugin
